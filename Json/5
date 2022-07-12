@@ -1,0 +1,23 @@
+{
+  "name": "BVIKLAB NFT #5",
+  "image": "https://gateway.pinata.cloud/ipfs/QmducRYQeWxmfuV9VfiVQ4uGTNz6g8eQb5P6oqshNEZdp5/91lVQHR7ZxL._AC_SL1500_.jpg",
+  "description": "Skeleton",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Flowers Skeleton"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Quality",
+      "value": 7
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BVIKLAB NFT #3",
+  "image": "https://gateway.pinata.cloud/ipfs/QmducRYQeWxmfuV9VfiVQ4uGTNz6g8eQb5P6oqshNEZdp5/316591.jpg",
+  "description": "Bridge",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Colorful Bridge"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bridge"
+    },
+    {
+      "trait_type": "Color",
+      "value": "All colors"
+    },
+    {
+      "trait_type": "Quality",
+      "value": 7
+    }
+  ]
+}
